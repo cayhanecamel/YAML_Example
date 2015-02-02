@@ -1,0 +1,9 @@
+str: hello
+num1: 5
+num2: 34.44
+bool1: true
+bool2: false
+nothing: null
+date: 2014-07-28
+d1: "5"
+d2: "true"

@@ -1,0 +1,12 @@
+ doc1:
+   aaa
+   bbb
+   ccc
+ doc2: |
+   aaa
+   bbb
+   ccc
+ doc3: >
+   aaa
+   bbb
+   ccc
